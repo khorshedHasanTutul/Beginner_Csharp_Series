@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjectA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.dll": {}
+        }
+      },
+      "ProjectB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProjectB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectA/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA/ProjectA.csproj",
+      "msbuildProject": "../ProjectA/ProjectA.csproj"
+    },
+    "ProjectB/1.0.0": {
+      "type": "project",
+      "path": "../ProjectB/ProjectB.csproj",
+      "msbuildProject": "../ProjectB/ProjectB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProjectA >= 1.0.0",
+      "ProjectB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Windows 10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj",
+      "projectName": "C#Learn",
+      "projectPath": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj",
+      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj"
+            },
+            "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj": {
+              "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
