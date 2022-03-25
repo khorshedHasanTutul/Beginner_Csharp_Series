@@ -8,6 +8,9 @@ namespace C_LEARN
     {
         public static void Main(string[] args)
         {
+            // Employee2 Emp2 = new Employee2("Hello Hasan Tutul");
+            var PTE2= new PartTimeEmployeeX();
+            PTE2.printFullName();
             SomethingA a = new SomethingA();
             CallConstructor p=new CallConstructor("Khorshed","Hasan Tutul");
             CallConstructor q= new CallConstructor();
@@ -18,6 +21,8 @@ namespace C_LEARN
             ArrayIntroducing arrayIntro = new ArrayIntroducing();
             Arrayparameters passArray = new Arrayparameters();
             PATA.print();
+
+            Employee3 emp3=new childEmployee();
             // call read & readingWriteline program 
             // readingWriteline.ReadUSer();
             // arrayIntro.takeInputArray();
