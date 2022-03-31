@@ -8,6 +8,23 @@ namespace C_LEARN
     {
         public static void Main(string[] args)
         {
+            students student = new students();
+            student.SetId(50);
+            Console.WriteLine(student.GetId());
+            Teacher teacher = new Teacher();
+            teacher.FirstName = "Khorshed Hasan Mahmudul Alom";
+            teacher.LastName = "Tutul";
+            teacher.printFullName();
+            Console.WriteLine(teacher.FirstName);
+            Structs structs = new Structs
+            {
+                Id = 25,
+                Name = "Khorshed HAsan Tutul"
+            };
+            structs.printFullData();
+            ICustomer2 IC2=new student1();
+            IC2.Print1();
+            IC2.Print2();
             // Employee2 Emp2 = new Employee2("Hello Hasan Tutul");
             // var PTE2= new PartTimeEmployeeX();
             // PTE2.printFullName();

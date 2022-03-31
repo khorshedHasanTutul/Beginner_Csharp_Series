@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj": {}
+    "D:\\C#\\Beginner_Csharp_Series\\C#Learn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj": {
+    "D:\\C#\\Beginner_Csharp_Series\\C#Learn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj",
+        "projectUniqueName": "D:\\C#\\Beginner_Csharp_Series\\C#Learn.csproj",
         "projectName": "C#Learn",
-        "projectPath": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\C#Learn.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Desktop\\C#Learn\\obj\\",
+        "projectPath": "D:\\C#\\Beginner_Csharp_Series\\C#Learn.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Beginner_Csharp_Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj": {
-                "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj"
+              "D:\\C#\\ProjectA\\ProjectA.csproj": {
+                "projectPath": "D:\\C#\\ProjectA\\ProjectA.csproj"
               },
-              "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj": {
-                "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj"
+              "D:\\C#\\ProjectB\\ProjectB.csproj": {
+                "projectPath": "D:\\C#\\ProjectB\\ProjectB.csproj"
               }
             }
           }
@@ -57,21 +57,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj": {
+    "D:\\C#\\ProjectA\\ProjectA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj",
+        "projectUniqueName": "D:\\C#\\ProjectA\\ProjectA.csproj",
         "projectName": "ProjectA",
-        "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectA\\ProjectA.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Desktop\\ProjectA\\obj\\",
+        "projectPath": "D:\\C#\\ProjectA\\ProjectA.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -107,21 +107,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj": {
+    "D:\\C#\\ProjectB\\ProjectB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj",
+        "projectUniqueName": "D:\\C#\\ProjectB\\ProjectB.csproj",
         "projectName": "ProjectB",
-        "projectPath": "C:\\Users\\Windows 10\\Desktop\\ProjectB\\ProjectB.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Desktop\\ProjectB\\obj\\",
+        "projectPath": "D:\\C#\\ProjectB\\ProjectB.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\ProjectB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -157,7 +157,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

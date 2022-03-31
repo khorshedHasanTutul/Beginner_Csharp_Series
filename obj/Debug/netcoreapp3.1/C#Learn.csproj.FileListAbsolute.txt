@@ -18,3 +18,23 @@ C:\Users\Windows 10\Desktop\C#Learn\bin\Debug\netcoreapp3.1\ProjectB.dll
 C:\Users\Windows 10\Desktop\C#Learn\bin\Debug\netcoreapp3.1\ProjectA.pdb
 C:\Users\Windows 10\Desktop\C#Learn\bin\Debug\netcoreapp3.1\ProjectB.pdb
 C:\Users\Windows 10\Desktop\C#Learn\obj\Debug\netcoreapp3.1\C#Learn.csproj.CopyComplete
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectA.exe
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectB.exe
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.exe
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.deps.json
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.runtimeconfig.json
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.runtimeconfig.dev.json
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.dll
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\C#Learn.pdb
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectA.dll
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectB.dll
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectA.pdb
+D:\C#\Beginner_Csharp_Series\bin\Debug\netcoreapp3.1\ProjectB.pdb
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.csprojAssemblyReference.cache
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.AssemblyInfoInputs.cache
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.AssemblyInfo.cs
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.csproj.CoreCompileInputs.cache
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.csproj.CopyComplete
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.dll
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.pdb
+D:\C#\Beginner_Csharp_Series\obj\Debug\netcoreapp3.1\C#Learn.genruntimeconfig.cache
