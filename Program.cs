@@ -8,6 +8,19 @@ namespace C_LEARN
     {
         public static void Main(string[] args)
         {
+
+            HelloFromDelegate deligate=new HelloFromDelegate(Deligate.print);
+            deligate("Hey delegate do you exist to invoke a function only");
+
+            C c=new C();
+            c.printC();
+            Program2 p2=new Program2();
+            ((I1)p2).InterfaceMethod();
+            ((I2)p2).InterfaceMethod();
+            class3 c3=new class3();
+            c3.print();
+            c3.print2();
+
             students student = new students();
             student.SetId(50);
             Console.WriteLine(student.GetId());
