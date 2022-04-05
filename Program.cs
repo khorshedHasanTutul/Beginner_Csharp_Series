@@ -8,6 +8,8 @@ namespace C_LEARN
     {
         public static void Main(string[] args)
         {
+            Exception_Handling exp= new Exception_Handling();
+            exp.ExceptionHandling();
 
             HelloFromDelegate deligate=new HelloFromDelegate(Deligate.print);
             deligate("Hey delegate do you exist to invoke a function only");
